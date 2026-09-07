@@ -11,12 +11,12 @@
 ### 🔎 About Me
 
 - 🎓 B.E. in Computer Science at **AISSMS Institute of Information Technology, Pune** 
-- 🧠 **AI/ML Cohort Member** at Catalyst Tech on applied ML & project-based learning
-- 🧠 **Technical Member** @ AWS Student Builder Group, AISSMS IOIT
-- 🎤 **Anchoring Head**, Training & Placement Cell 
-- 🔬 Into **explainable AI, fraud/risk analytics, and time-series anomaly detection**
+-  **AI/ML Cohort Member** at Catalyst Tech on applied ML & project-based learning
+-  **Technical Member** @ AWS Student Builder Group, AISSMS IOIT
+-  **Anchoring Head**, Training & Placement Cell 
+- Into **explainable AI, fraud/risk analytics, and time-series anomaly detection**
 -  90+ problems deep into LeetCode, one array at a time
-- 🔥 *"Cooking like a chef, I am a 5 star Michelin."*
+-  *"Cooking like a chef, I am a 5 star Michelin 🔥."*
 
 ---
 
@@ -140,20 +140,13 @@
 ---
 
 ### 📊 GitHub Stats
-<P>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamangeraashi-bit&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dhamangeraashi-bit&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhamangeraashi-bit&theme=radical&no-frame=true&row=1&column=6" />
-</p>https://takeuforward.org/home
-
 
 
 <p align="center">
-  <i><B>YOU ARE ON YOUR OWN KID, YOU ALWAYS HAVE BEEN</B> 📈</i>
+  <i><B>YOU ARE ON YOUR OWN KID, YOU ALWAYS HAVE BEEN</B> </i>
 </p>
