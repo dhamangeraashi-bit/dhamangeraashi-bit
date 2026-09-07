@@ -135,5 +135,5 @@
 
 
 <p align="center">
-  <i><B>YOU ARE ON YOUR OWN KID, YOU ALWAYS HAVE BEEN</B> </i>
+  <i><B>YOU ARE ON YOUR OWN KID </B> </i>
 </p>
