@@ -108,7 +108,7 @@
 <tr>
 <td colspan="2" align="center">
 
-**💻 [LeetCode](https://github.com/dhamangeraashi-bit/LeetCode)** · `Java` · Arrays, strings & dynamic programming — 90+ problems solved and counting
+**💻 [LeetCode](https://github.com/dhamangeraashi-bit/LeetCode)** · `Java` · Arrays, strings & dynamic programming — 100+ DSA problems solved and counting, 50+ Leetcode
 
 </td>
 </tr>
