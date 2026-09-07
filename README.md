@@ -16,7 +16,7 @@
 -  **Anchoring Head**, Training & Placement Cell 
 - Into **explainable AI, fraud/risk analytics, and time-series anomaly detection**
 -  100+ DSA problems solved, 50+ deep into LeetCode, one array at a time
--  *"Cooking like a chef, I am a 5 star Michelin 🔥."*
+-  *" Maniac 🔥."*
 
 ---
 
