@@ -121,10 +121,10 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=raashidhamange&theme=dark" />
 </p>
 
-> Swap `raashidhamange` for your actual LeetCode handle and this card will render live — solved count, ranking, and a submission heatmap included.
+
 
 ---
 
