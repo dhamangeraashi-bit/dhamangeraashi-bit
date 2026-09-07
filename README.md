@@ -11,7 +11,7 @@
 ### 🔎 About Me
 
 - 🎓 B.E. in Computer Science at **AISSMS Institute of Information Technology, Pune** 
--  **AI/ML Cohort Member** at Catalyst Tech on applied ML & project-based learning
+-  **AI/ML Cohort Member** previously at Catalyst Tech on applied ML & project-based learning
 -  **Technical Member** @ AWS Student Builder Group, AISSMS IOIT
 -  **Anchoring Head**, Training & Placement Cell 
 - Into **explainable AI, fraud/risk analytics, and time-series anomaly detection**
