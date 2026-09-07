@@ -52,19 +52,6 @@
   <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### 🏅 Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Arcade-Level%203-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Arcade Level 3"/>
-</p>
-
-> 📝 Replace the badge above with your real earned-badge image once it's hosted somewhere public — e.g. your Google Cloud Skills Boost credential URL, or by uploading the PNG into an `/assets` folder in this repo and linking it like:
-> `![Google Cloud Arcade Level 3](assets/gcp-arcade-level3.png)`
-
----
-
 ### 🏅 Achievements & Certifications
 
 | Badge | Credential | Issuer | Date |
