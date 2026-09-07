@@ -129,10 +129,16 @@
 ---
 
 ### 📊 GitHub Stats
+<P>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamangeraashi-bit&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhamangeraashi-bit&show_icons=true&theme=radical&hide_border=true" height="165"/>
- 135  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamangeraashi-bit&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=dhamangeraashi-bit&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhamangeraashi-bit&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 
