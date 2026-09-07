@@ -15,8 +15,8 @@
 - 🧠 **Technical Member** @ AWS Student Builder Group, AISSMS IOIT
 - 🎤 **Anchoring Head**, Training & Placement Cell 
 - 🔬 Into **explainable AI, fraud/risk analytics, and time-series anomaly detection**
-- 🧩 90+ problems deep into LeetCode, one array at a time
-- 💡 *"You build the model, you own the outcome — no one hands you the pipeline."*
+-  90+ problems deep into LeetCode, one array at a time
+- 🔥 *"Cooking like a chef, I am a 5 star Michelin."*
 
 ---
 
@@ -51,6 +51,17 @@
   <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 🏅 Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Arcade-Level%203-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Arcade Level 3"/>
+</p>
+
+> 📝 Replace the badge above with your real earned-badge image once it's hosted somewhere public — e.g. your Google Cloud Skills Boost credential URL, or by uploading the PNG into an `/assets` folder in this repo and linking it like:
+> `![Google Cloud Arcade Level 3](assets/gcp-arcade-level3.png)`
 
 ---
 
@@ -139,11 +150,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhamangeraashi-bit&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+</p>https://takeuforward.org/home
 
 
 
 <p align="center">
   <i><B>YOU ARE ON YOUR OWN KID, YOU ALWAYS HAVE BEEN</B> 📈</i>
 </p>
-
